@@ -50,3 +50,4 @@ The wearable uses a differential approach to cancel out whole-torso hip leaning 
 
 ---
 *Disclaimer: PosturePulse is a non-diagnostic ergonomic habit-awareness tool. It is not intended to diagnose, treat, or prevent any medical condition.*
+
